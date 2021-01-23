@@ -4,6 +4,7 @@ public class FizzBuzz {
 
     public String play(int number) {
 
+        /** java changes */
         if (number == 0) throw new IllegalArgumentException("Number must not be 0");
 
         if (isMultipleOf(number, 3) && isMultipleOf(number, 5)) return "FizzBuzz";
