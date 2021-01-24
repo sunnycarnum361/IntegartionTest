@@ -11,7 +11,7 @@ public class FizzBuzz {
         if (isMultipleOf(number, 3)) return "Fizz";
         if (isMultipleOf(number, 5)) return "Buzz";
 
-
+           /**some changes */
         return String.valueOf(number);
     }
 
