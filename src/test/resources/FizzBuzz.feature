@@ -1,4 +1,4 @@
-Feature: FizzBuzz Game play
+Feature: FizzBuzz Game play sample test
 
   Scenario: Play FizzBuzz to get Fizz
     Given Create a FizzBuzz game play
